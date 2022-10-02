@@ -1,0 +1,12 @@
+Z -> aS
+Z->aA
+Z->a
+A->eS
+S -> aZ
+    A -> bQ
+    Q -> kV
+    V -> aQ
+S -> cS
+S ->aA
+S -> y
+S -> z

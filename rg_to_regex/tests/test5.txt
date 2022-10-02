@@ -1,0 +1,5 @@
+S -> abS
+N -> bL
+L -> bK
+K -> bN
+S -> c

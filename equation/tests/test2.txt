@@ -1,0 +1,2 @@
+X = bbX + bY + u
+Y = gX + a

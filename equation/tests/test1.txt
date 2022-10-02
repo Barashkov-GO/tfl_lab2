@@ -1,0 +1,2 @@
+X = (a|b)X + bcY + b
+Y = c + bX + a

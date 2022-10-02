@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fanat/Projects/C++/tfl_2_Barashkov/equation/main.cpp
+iostream
+-
+string
+-
+vector
+-
+regex
+-
+fstream
+-
+set
+-
+

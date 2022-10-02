@@ -1,0 +1,1 @@
+int a     = 998;int qwertuikjhgfdvbnmkjhgfcvbnmkjhv_456789987654546789876_=0;int c;

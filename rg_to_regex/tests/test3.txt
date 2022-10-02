@@ -1,0 +1,2 @@
+S -> aA | cS | a  | c
+A -> aA | с  | bS
